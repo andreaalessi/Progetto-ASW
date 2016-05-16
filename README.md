@@ -1,5 +1,5 @@
 # Progetto-ASW
-Repository progetto Architetture Software
+Repository progetto Architetture Software.
 
 Preparazione: 
 
